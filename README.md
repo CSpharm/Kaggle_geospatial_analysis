@@ -8,6 +8,7 @@ This repository will only comprise 4 lessons (starting from lesson 2) plus the b
 Research for the bird migration in South America, and the distribution of protected-area there. 
 
 # Lesson 3 : Interactive Maps
+Creating heat map, choropleth map,and bubble map to visualise the relationship between the earthquake distribution and population density.
 
 # Lesson 4 : Manipulating Geospatial Data
 
